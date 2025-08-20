@@ -1,4 +1,5 @@
-Vehicle Rental System
+VEHICLE RENTAL SYSTEM
+
 The Vehicle Rental System is a Java-based project that demonstrates the application of Object-Oriented Programming (OOP) concepts to manage a vehicle rental service. The system allows users to browse available vehicles, book rentals, and manage returns efficiently while ensuring data consistency.
 
 Features:
